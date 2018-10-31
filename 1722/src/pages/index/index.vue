@@ -1,12 +1,4 @@
 <template>
-<<<<<<< HEAD
-<div class="header">heade</div>
-</template>
-
-<script>
-export default {
-  name: 'index'
-=======
 <index-header></index-header>
 </template>
 
@@ -18,16 +10,8 @@ export default {
   components: {
     IndexHeader
   }
->>>>>>> origin/20180111-index-coco
 }
 </script>
 
 <style>
-<<<<<<< HEAD
-.header {
-    background: red;
-}
-=======
-
->>>>>>> origin/20180111-index-coco
 </style>
