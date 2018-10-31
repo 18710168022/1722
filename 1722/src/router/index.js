@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Index from '@/pages/index/incex'
-import City from '@/pages/city/incex'
+import Index from '@/pages/index/index'
+import City from '@/pages/city/index'
 
 Vue.use(Router)
 
